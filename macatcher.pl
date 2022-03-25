@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-# macatcher.pl - woody@smallroom.com
+
 
 use strict;
 
